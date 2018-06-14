@@ -1,0 +1,2 @@
+<!--pages/getphonenumber/getphonenumber.wxml-->
+<span style="font-size:14px;"><button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">yy</button></span>    
